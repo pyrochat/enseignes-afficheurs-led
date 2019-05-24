@@ -1,7 +1,7 @@
 
-# MOOC Enseignes et afficheurs à LED
+# Enseignes et afficheurs à LED
 
-![ ](intro-images/vignette.jpg)
+![ ](resources/intro-images/vignette.jpg)
 
 ## Introduction ##
 
