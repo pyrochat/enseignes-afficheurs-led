@@ -21,13 +21,10 @@ if [[ "$OSTYPE" == darwin14 ]]; then
 fi
 
 inkscape -z -C atome.svg -e=atome.png -d=300
-convert -background white -flatten atome.png atome.jpg
-
+# convert -background white -flatten atome.png atome.jpg
 inkscape -z -C pile-led.svg -e=pile-led.png -d=300
-convert -background white -flatten pile-led.png pile-led.jpg
-
 inkscape -z -C schema-pile-led.svg -e=schema-pile-led.png -d=300
-convert -background white -flatten schema-pile-led.png schema-pile-led.jpg
-
+inkscape -z -C schema-pile-res2p.svg -e=schema-pile-res2p -d=300
+inkscape -z -C schema-pile-res2s.svg -e=schema-pile-res2s.png -d=300
 
 exit 0

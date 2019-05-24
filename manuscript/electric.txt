@@ -4,7 +4,7 @@
 
 On se souvient que la matière est composée d’**atomes**. Les atomes ont un noyau, composé de protons et de neutrons, ainsi qu’un nuage d’électrons, constitués en couches successives.
 
-![Structure d’un atome](electric-images/atome.png)
+![Structure d’un atome](electric-images/atome.png){ width=55% }
 
 Dans certains matériaux, les électrons de la dernière couche sont capables de se déplacer d’un atome à l’autre. On parle d’**électrons libres**. Ce mouvement est généralement désordonné. Lors qu’il est ordonné, on parle de **courant électrique**.
 
