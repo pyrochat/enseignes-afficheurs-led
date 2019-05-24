@@ -25,4 +25,9 @@ convert -background white -flatten atome.png atome.jpg
 
 inkscape -z -C pile-led.svg -e=pile-led.png -d=300
 convert -background white -flatten pile-led.png pile-led.jpg
+
+inkscape -z -C schema-pile-led.svg -e=schema-pile-led.png -d=300
+convert -background white -flatten schema-pile-led.png schema-pile-led.jpg
+
+
 exit 0
