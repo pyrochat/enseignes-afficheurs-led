@@ -1,0 +1,21 @@
+
+# MOOC Enseignes et afficheurs à LED
+
+![ ](intro-images/vignette.jpg)
+
+## Introduction ##
+
+Le sujet de ce cours, ce sont les **Enseignes et afficheurs à LED**.
+
+Une __LED__, c'est une diode électroluminescente, ou diode lumineuse, en anglais *Light Emitting Diode*, LED. J’ai vu une LED pour la première fois de ma vie dans les années 1970. Je m’en souviens, c’était lors d’une séance du club d’électronique de Lausanne, fondé par Jean-Daniel Nicoud. Vous le connaissez peut-être : nous avons créé ensemble en 2013 le MOOC *Comprendre les microcontrôleurs*. J’étais alors parmi les plus jeunes du club et nous avions rêvé de tapisser une paroi avec des LED pour remplacer les télévisions, construits à l’époque avec d'encombrants tubes cathodiques. Nos enseignants nous ont alors rappelés à la réalité... la technologie n'était pas encore mure. Il a fallu attendre quelques dizaines d'années, mais la réalité a maintenant dépassé tous nos rêves !
+
+Aujourd’hui, les LED sont surtout devenues tellement peu coûteuses qu’on n’hésite pas à les utiliser dans presque toutes les applications où on a besoin de lumière. Elles illuminent les nuits d’une bonne partie de l’humanité, depuis les lampes solaires des villages les plus reculés de l'Afrique jusqu’au murs et aux ponts lumineux des villes chinoises.
+
+Le but de ce cours est de vous donner les bases permettant de comprendre et de réaliser des enseignes et des afficheurs à LED, depuis la petite enseigne OUVERT que vous pourrez vendre au boutiquier de votre quartier, jusqu'aux murs de LED des panneaux publicitaires animés.
+
+Ce que nous appellerons __*enseigne*__, ce sont des assemblages de LED pour créer des motifs fixes. Deux exemples : l'enseigne d'un restaurant, ou encore un signal lumineux qui annonce un passage pour piétons. On apprendra à connaître les schémas électroniques de ces enseignes, mais aussi à les animer pour les rendre attrayantes.
+
+Ce que nous désignerons par __*afficheurs*__, ce sont des assemblages de LED prévus pour transmettre des informations qui peuvent changer à tout moment. Les afficheurs numériques à sept segments en font partie. Mais ce sont les afficheurs matriciels qui sont les plus courants. Deux exemples : les journaux lumineux qui donnent des informations sur le trafic sur les autoroutes, ou encore les murs vidéos des salles de spectacle. On apprendra à connaître l'architecture de ces afficheurs, mais aussi la programmation nécessaire pour qu'il affichent l'information voulue.
+
+
+
