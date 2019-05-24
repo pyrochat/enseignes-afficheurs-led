@@ -4,7 +4,7 @@
 
 On se souvient que la matière est composée d’**atomes**. Les atomes ont un noyau, composé de protons et de neutrons, ainsi qu’un nuage d’électrons, constitués en couches successives.
 
-![Structure d’un atome](resources/electric-images/atome.jpg)
+![Structure d’un atome](electric-images/atome.png)
 
 Dans certains matériaux, les électrons de la dernière couche sont capables de se déplacer d’un atome à l’autre. On parle d’**électrons libres**. Ce mouvement est généralement désordonné. Lors qu’il est ordonné, on parle de **courant électrique**.
 
@@ -20,11 +20,11 @@ En présence d’une *force électromotrice*, appelée aussi **tension électriq
 
 Nous verrons plus tard ce qu’est une LED (*Light-Emitting Diode*, diode électroluminescente ou diode lumineuse). En attendant, réalisons le montage ci-dessous. Le courant électrique produit par la pile va circuler à travers la résistance et la LED, qui va émettre alors de la lumière.
 
-![Circuit électrique](resources/electric-images/pile-led.jpg)
+![Circuit électrique](electric-images/pile-led.png)
 
 Les électriciens et les électroniciens ont l’habitude de dessiner des **schémas** en utilisant des symboles. Ils ne ressemblent pas toujours à la forme des composants utilisés ! Voici le schéma correspondant au montage ci-dessus :
 
-![Schéma électronique](resources/electric-images/schema-pile-led.jpg)
+![Schéma électronique](electric-images/schema-pile-led.png)
 
 ## Unités électriques ##
 
